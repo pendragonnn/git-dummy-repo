@@ -2,4 +2,4 @@ this is my first commit
 
 this is branch-1
 
-this is merging by master
+from branch 2
